@@ -8,6 +8,7 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 
 
 -- Variables:
+
 Date: Date in format dd/mm/yyyy
 
 Time: time in format hh:mm:ss
